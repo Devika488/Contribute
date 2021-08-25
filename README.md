@@ -66,6 +66,6 @@ Add your names here in the readme file.
 63. Spacial
 64. Alex S
 65. Joyal A Johney
-66. HareerSakhi
+66. HareerSakhigit
 67. Devika Devadas
 68. Aditi Pravin
